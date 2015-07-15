@@ -1,2 +1,3 @@
 # initProject
-asdfasdf
+
+# This is init project
